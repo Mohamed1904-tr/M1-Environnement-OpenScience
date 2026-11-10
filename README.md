@@ -3,7 +3,7 @@ Impact de la température sur l'alimentation et la santé humaine
 
 ## Étudiants
 - Mohamed Belgadi
-- Asaad salama Belhorma
+- BELHORMA Asaad Salama
 
 ## Thème environnemental
 Impact de la température sur l'alimentation et la santé humaine.
